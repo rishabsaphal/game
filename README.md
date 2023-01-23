@@ -1,2 +1,2 @@
 # game
-Simple Web-based game - speech controlled.
+Simple web-based game - speech controlled.
